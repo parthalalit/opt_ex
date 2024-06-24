@@ -16,8 +16,11 @@ Follow these steps to get a copy of the project up and running on your local mac
     git clone https://github.com/parthalalit/optimizing_non-linear_treatment_effects
     cd optimizing_non-linear_treatment_effects
     ```
+2. **Create a folder**
+Create a folder with name- "plots" in the same directory you will clone this repo.
+The graphs associated with this program will get saved in the plots folder.
 
-2. **Install the required packages**:
+3. **Install the required packages**:
     ```sh
     pip install -r requirements.txt
     ```
